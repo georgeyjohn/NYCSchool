@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">20211023-GeorgeyJohn-NYCSchool</string>
+    <string name="location_image">Location Image</string>
+    <string name="total">Total</string>
+    <string name="math">Math</string>
+    <string name="reading">Reading</string>
+    <string name="writing">Writing</string>
+</resources>
